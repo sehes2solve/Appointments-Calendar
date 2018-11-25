@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1542965257 source:c:\users\pc\desktop\appointment calendar\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Calendar.h"
+	<cstring>
+
+1542576479 c:\users\pc\desktop\appointment calendar\include\calendar.h
+	"DayAppointments.h"
+
+1542570209 c:\users\pc\desktop\appointment calendar\include\dayappointments.h
+	"Appointment.h"
+
+1542562834 c:\users\pc\desktop\appointment calendar\include\appointment.h
+	"Time.h"
+
+1542466566 c:\users\pc\desktop\appointment calendar\include\time.h
+	<string>
+
+1542557908 source:c:\users\pc\desktop\appointment calendar\src\appointment.cpp
+	"Appointment.h"
+
+1542962579 source:c:\users\pc\desktop\appointment calendar\src\calendar.cpp
+	"Calendar.h"
+
+1542467569 source:c:\users\pc\desktop\appointment calendar\src\time.cpp
+	"Time.h"
+
+1542914882 source:c:\users\pc\desktop\appointment calendar\src\dayappointments.cpp
+	"DayAppointments.h"
+
